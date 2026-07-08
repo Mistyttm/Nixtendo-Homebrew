@@ -1,0 +1,10 @@
+build/
+*.nds
+*.elf
+*.arm9
+*.arm7
+*.map
+*.ds.gba
+*.bin
+compile_commands.json
+.direnv/
